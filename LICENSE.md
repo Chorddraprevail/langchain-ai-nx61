@@ -1,4 +1,4 @@
-# 
+# Ultimate LangChain extensions. Featuring automated-testing and automated-reasoning — optimized for maximum performance and efficiency.
 
 
 
